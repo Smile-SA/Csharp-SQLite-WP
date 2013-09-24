@@ -1,6 +1,4 @@
-# Fork of [Sqlite Client for Windows Phone](http://sqlitewindowsphone.codeplex.com/) for cordova plugin enabling WebSqlDatabase on WP7+
-
-This fork of the C# implementation of SQLite was created for a cordova plugin.
+This fork of the [Sqlite Client for Windows Phone](http://sqlitewindowsphone.codeplex.com/) C# implementation of SQLite was created for a [cordova plugin](https://github.com/Smile-SA/cordova-plugin-websqldatabase).
 
 ## Modifications
 
